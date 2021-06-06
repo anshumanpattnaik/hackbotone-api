@@ -1,0 +1,7 @@
+*.pyc
+__pycache
+migrations
+venv
+env
+.vscode
+.idea
