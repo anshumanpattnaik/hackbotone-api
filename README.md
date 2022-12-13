@@ -50,8 +50,5 @@ There are three different CSV files that can be found under [databases](database
 ### Note
 If you are facing any issues or problems then feel free to raise an issue.
 
-### Youtube Explantation
-1. https://youtu.be/TRaejKHVhj8
-
 ### License
 This project is licensed under the [MIT License](LICENSE)
